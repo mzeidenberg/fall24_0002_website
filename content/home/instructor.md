@@ -8,6 +8,11 @@ weight: 1  # section position on page
 design:
 columns: '1'
 ---
+
+NOTE THIS WEBSITE IS CURRENTLY BEING UPDATED. PLEASE DO NOT 
+RELY ON IT UNTIL THIS MESSAGE DISAPPEARS.
+
+
 Introduction to Computer Programming (in Python) (No Prior Experience)   
 Section 9  
 [Matt Zeidenberg](https://www.mattzeidenberg.com/)   
