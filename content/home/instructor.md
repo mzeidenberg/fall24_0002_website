@@ -8,10 +8,9 @@ weight: 1  # section position on page
 design:
 columns: '1'
 ---
-Introduction to Computer Programming (in Python) (No Prior Experience)
-
-Section 9
-[Matt Zeidenberg](https://www.mattzeidenberg.com/)
+Introduction to Computer Programming (in Python) (No Prior Experience)   
+Section 9  
+[Matt Zeidenberg](https://www.mattzeidenberg.com/)   
 Clinical Associate Professor
 [Department of Computer Science](https://cs.nyu.edu/home/index.html)
 Courant Institute of Mathematical Sciences
