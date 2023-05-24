@@ -9,10 +9,10 @@ design:
 columns: '1'
 ---
 ## Meeting Time
-Monday/Wednesday, 3:30-4:45 PM, 101 Warren Weaver Hall (The Courant Institute, 251 Mercer St.)
+Tuesday/Thursday, 2:00-3:50 PM, Silver Room 101A
 
 In-person attendence is expected, but if you can't attend in person for some reason on a particular day, you 
-can connect to the Zoom for the class at https://nyu.zoom.us/j/91206327883
+can connect to the Zoom for the class at https://nyu.zoom.us/j/99542332516
 
 The above Zoom link can also be found in Brightspace under the "Zoom" tab. It would be helpful if you turn your
 camera on if you can.
@@ -21,17 +21,20 @@ Sessions will be recorded, but live attendence is preferred if at all possible. 
 
 ## Common Course Syllabus
 
-There are 13 sections of this course that all cover the same material, although there is variation in the assignments 
-and exams by instructor.
+There are 13 sections of this course that all cover the same material, although there is variation in the lecture content, the assignments, and the exams by instructor.
 
 General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php).
 
 ## Office Hours
-Office hours will be held in person and on Zoom this semester every weekday (except Friday) from 2 to 3 PM starting on Monday, Jan. 23rd.
+Office hours will be held in person and on Zoom this semester Mondays and Wednesdays from 2-3 PM and
+Tuesdays and Thursdays from 12:40-1:40 PM. 
 
-My office is 419 Warren Weaver Hall (the same building as class)) if you want to meet me in person.
+My office is 419 Warren Weaver Hall (the Courant Institute building) if you want to meet me in person.
 
-The Zoom link for office hours is https://nyu.zoom.us/j/96750082623 which can also be found in Brightspace under the "Zoom" tab.
+The Zoom link for M/W office hours is https://nyu.zoom.us/j/93843923104
+The Zoom link for Tu/Th office hours is https://nyu.zoom.us/j/99120599500 
+
+These links which can also be found in Brightspace under the "Zoom" tab.
 
 Please turn your camera on if possible when you connect.
 
