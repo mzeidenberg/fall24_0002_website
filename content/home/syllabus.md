@@ -9,7 +9,7 @@ design:
 columns: '1'
 ---
 ## Meeting Time
-Tuesday/Thursday, 2:00-3:50 PM, Silver Room 101A
+Tuesday/Thursday, 2:00-3:15 PM, Silver Room 101A
 
 In-person attendence is expected, but if you can't attend in person for some reason on a particular day, you 
 can connect to the Zoom for the class at https://nyu.zoom.us/j/99542332516
