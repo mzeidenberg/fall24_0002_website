@@ -31,8 +31,8 @@ Tuesdays and Thursdays from 12:40-1:40 PM.
 
 My office is 419 Warren Weaver Hall (the Courant Institute building) if you want to meet me in person.
 
-The Zoom link for M/W office hours is https://nyu.zoom.us/j/93843923104
-The Zoom link for Tu/Th office hours is https://nyu.zoom.us/j/99120599500 
+The Zoom link for M/W office hours is https://nyu.zoom.us/j/93843923104  
+The Zoom link for Tu/Th office hours is https://nyu.zoom.us/j/99120599500   
 
 These links which can also be found in Brightspace under the "Zoom" tab.
 
