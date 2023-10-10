@@ -27,7 +27,7 @@ All of the self-paced learning modules have an associated quiz. The quizzes can 
 |Tu 10/17|   12|Introduction to writing your own functions; variable scope (Global vs. Local variables); passing arguments to functions; global variables and global constants; writing value returning functions; Input, Processing, Output notation (IPO); modules & Modular Design; [lecture notebook](https://colab.research.google.com/drive/1-hSGHF3GREDHT77NFWvhPqR_Eu5APM8a?usp=sharing)|Self-paced learning module #6 and quiz |[Self-paced learning module #7](https://cs.nyu.edu/elearning/CSCI_UA_0002/module07.php) and quiz |Gaddis, Chapter 5|
 |Th 10/19|   13|Workshop|Assignment #5 (due F 10/19 at 11:59 PM)|Assignment #6|None| 
 |Tu 10/24|   14|Functions, Part II; [lecture notebook](https://colab.research.google.com/drive/1NxmCuboEe11S1UfGnfshkj1o4NNCSU9S?usp=sharing)||||
-|Th 10/26|   15|Midterm Exam Review Session; [review session notebook](https://colab.research.google.com/drive/1Jmk-vbWAaS7XNA8BT8A6_W35chh1hxK6?usp=sharing)||||
+|Th 10/26|   15|Midterm Exam Review Session; [review session notebook](https://colab.research.google.com/drive/1FV2ymdP_AgkKEiHVtpLdNNnFwswVwDe-?usp=sharing)||||
 |Tu 10/31|   16|Midterm Exam||||
 |Th 11/2|    17|String manipulation and processing text-based data, string slicing; [lecture notebook](https://colab.research.google.com/drive/1Ta3UyEitPrkfhGc8CSJ3Ue54D6WMAngU?usp=sharing)|Self-paced learning module #7 and quiz|[Self-paced learning module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.php) and quiz |Gaddis, Chapter 8|
 |Tu 11/7|   18|Workshop|Assignment #6 (due W 11/8 at 11:59 PM)|Assignment #7||
