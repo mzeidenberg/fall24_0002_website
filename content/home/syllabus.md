@@ -9,13 +9,11 @@ design:
 columns: '1'
 ---
 ## Meeting Time
-Tuesday/Thursday, 2:00-3:15 PM, Silver Room 101A
+Tuesday/Thursday, 2:00-3:15 PM, Silver Room 520
 
-In-person attendence is expected, but if you can't attend in person for some reason on a particular day, you 
-can connect to the Zoom for the class at https://nyu.zoom.us/j/99542332516
+In-person attendence is expected, but if you can't attend in person for some reason on a particular day, you can connect to the Zoom for the class at https://nyu.zoom.us/j/94379106137
 
-The above Zoom link can also be found in Brightspace under the "Zoom" tab. It would be helpful if you turn your
-camera on if you can.
+The Zoom link for the class can also be found in Brightspace under the "Zoom" tab. It would be helpful if you turn your camera on if you can, especially if you ask a question.
 
 Sessions will be recorded, but live attendence is preferred if at all possible. Links to recordings of the Zoom meetings will also be found on Brightspace after they are made.
 
@@ -26,16 +24,15 @@ There are 13 sections of this course that all cover the same material, although 
 General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php).
 
 ## Office Hours
-Office hours will be held in person and on Zoom this semester Mondays and Wednesdays from 2-3 PM and
-Tuesdays and Thursdays from 12:40-1:40 PM. 
+Office hours will be held in person and on Zoom this semester Mondays and Wednesdays from 2-3 PM and Tuesdays and Thursdays from 12:45-1:45 PM. 
 
-My office is 419 Warren Weaver Hall (the Courant Institute building) if you want to meet me in person.
+My office is room 419 in Warren Weaver Hall (the Courant Institute building at 251 Mercer St.)
 
-The Zoom link for M/W office hours is https://nyu.zoom.us/j/93843923104  
+The Zoom link for M/W office hours is https://nyu.zoom.us/j/95768462807
 
-The Zoom link for Tu/Th office hours is https://nyu.zoom.us/j/99120599500   
+The Zoom link for Tu/Th office hours is https://nyu.zoom.us/j/95230883194
 
-These links which can also be found in Brightspace under the "Zoom" tab.
+These links can also be found in Brightspace under the "Zoom" tab.
 
 Please turn your camera on if possible when you connect.
 
@@ -82,13 +79,27 @@ Weekly assignments will be presented in the other class period, the "workshop." 
 ## Grading
 Your grade in this course will be determined based on the breakdown below. Note that the following rubric serves as a guideline for how grades will be calculated. The final percentage allotted to each category is at my discretion.
 
+* Attendence: 5% 
+* In-Class Exercises: 5%
 * Assignments: 30%
 * Quizzes: 10%
-* In-class participation: 5%
 * Midterm Exam: 25%
-* Final Exam: 30%
+* Final Exam: 25%
 
 If you plan to continue with Computer Science courses such as CSCI-UA.0101, you *MUST* earn a grade of C or better in this course. No exceptions will be made. Exams may be curved at my discretion.
+
+## Attendence 
+
+You need to attend 80% of the class sessions to receive full credit for attendence. I hand out paper
+exit tickets which will have some questions on them about what you have learned or what questions you have more me. These questions are ungraded, but I will use the forms to measure attendence.
+
+The reason I'm counting attendence is because the research shows that students who attend class learn 
+more, and my goal is to maximize student learning.
+
+## In-Class Exercises
+
+Using the Ed Lessons platform, I will ask you to do short exercises in class. You will get full credit
+for these exercises if you attempt 80% of them by giving some response. It doesn't have to be correct.
 
 ## Quizzes
 There will be 11 online quizzes that go along with each online learning module. These quizzes contain a series of multiple choice questions and will be worth 10% of your final grade. Quizzes are delivered via Brightspace and can be attempted up to 5 times. Your most recent score will be the one recorded (not your highest score). The online quizzes should be completed before class on the day in which they are due. Please see the course schedule for a complete list of due dates.  "Grace" days (described below) do not apply to quizzes.
@@ -96,46 +107,26 @@ There will be 11 online quizzes that go along with each online learning module. 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
 
-I suggest that you use cloud storage (e.g. Google Drive, Dropbox, etc.) to save your work on your assignments. That way, if your machine crashes, you won't lose your work. Also, remember to save your work frequently. Speaking as someone who has sometimes lost work, I say "Save early, save often."
+The assignments will be done on the Ed Lessons platform, which allows for auto-grading. Thus if you
+get a particular item in an assignment right, you will know right away. The graders will assign partial
+credit for those parts of an assignment that did not pass the automated test.
 
-It is important not to get behind in turning your assignments (this class is cumulative).  Late submissions will be penalized by 10% off per day late, and assignments that are more than 10 days late can not be turned in for credit. 
+It is important not to get behind in turning your assignments (this class is cumulative). Late submissions will be penalized by 10% off per day late, and assignments that are more than 10 days late can not be turned in for credit. 
 
 That being said, sometimes there are unforeseen situations that may impede your progress, as a result you are being given ten grace days for the entire semester. These grace days cover all late submissions regardless of personal, professional, or technical related delays (e.g. a job interview, computer hardware failure, etc.) and no further exceptions will be granted (so don't waste them simply by procrastinating). You don't need to do anything special to use these "grace" days - the course graders will keep track of these on your behalf and will apply them to your work as necessary.
 
-You will be using Brightspace to turn in your homework assignments.  It is your responsibility to make sure that your assignments have been submitted successfully.  You can do this by simply attempting to download your work after it has been uploaded to the system – if you are able to do so, your assignment was submitted successfully.
+For example, let's say you need a little extra time with Assignment #1 and you miss the deadline by one day. After you submit your program on Ed Lessons, you would lose one grace day, leaving you with 9 for the rest of the semester. You can choose to "mix and match" how you use your grace days, and you do not need to let me know that you are using one (we will keep track of this information). If you run out of grace days and you turn in an assignment late you will be penalized by 10% per day late.
 
-For example, let's say you need a little extra time with Assignment #1 and you miss the deadline by one day. After you submit your program to Brightspace, and you would lose one grace day, leaving you with 9 for the rest of the semester. You can choose to "mix and match" how you use your grace days, and you do not need to let me know that you are using one (we will keep track of this information). If you run out of grace days and you turn in an assignment late you will be penalized by 10% per day late.
-
-There may be some extra credit components to some of the assignments, but these will only count toward your assignment
-grades, and won't help you if you get a perfect score on the required parts of the assignments, only if you don't.
-
-## Important Notes on Assignment Submissions
-
-The submission time recorded on Brightspace is the only time that I can use for determining if an assignment was completed on time. Timestamps on your local computer that indicate that a file was not modified after a specific date are not something that I can take into account when it comes to late submissions. It is very easy to manipulate these timestamps. 
-
-Please test your assignments thoroughly before submitting them to Brightspace. 
-
-If you realize you want to change or update your assignment, just submit it to Brightspace again, as long as it is before the deadline. The graders will use the most recent version submitted.
-
-It is your responsibility to make sure that your assignments have been submitted successfully. You can do this by simply attempting to download your work after it has been uploaded to the system – if you are able to do so, your assignment was submitted successfully.
-
-Do not send your code files via email attachments. NYU's email servers will reject files with code files as attachments. If you are having trouble with Brightspace, you can send me code via a private message on Ed (see below for more on Ed).
-
-All grading will be done on Brightspace and you can check your grades at any time by logging in and clicking on the "Grades" tool. 
+There won't be any extra credit, and I don't grant any requests for it. I don't care for it.
 
 ## Collaboration & Academic Integrity
-Assignments that you turn in should be your own work. It is fine to talk to other students and to get assistance in how to do something, but you should not ask your fellow students to actually do the work for you. When you turn in an assignment, you are saying that you have done this work yourself. The definition of plagiarism is to present someone else’s work as though it were your own. Please read the Computer Science Department [statement on academic integrity](https://cs.nyu.edu/home/undergrad/policy.html) for more information.
+Assignments that you submit should be your own work. It is fine to talk to other students and to get assistance in how to do something, but you should not ask your fellow students to actually do the work for you. When you turn in an assignment, you are saying that you have done this work yourself. The definition of plagiarism is to present someone else’s work as though it were your own. Please read the Computer Science Department [statement on academic integrity](https://cs.nyu.edu/home/undergrad/policy.html) for more information.
 
 We have software to detect copied programs. If student A turns in student B's program as their own, both students will receive a zero, and there may be other adverse consequences.
 
-With that said, you may work in pairs on assignments. If you choose to work with a partner both you and your partner must turn in your own copy of the assignment via Brightspace. If only one team member submits a copy of an assignment and the second team member does not submit anything the second team member will receive a grade of zero. If you are working as a team you should credit your partner as a comment at the top of your code. For example:
+With that said, you may work in pairs on assignments; in fact, I encourage this. If you choose to work with a partner both you and your partner must turn in your own copy of the assignment on Ed Lessons. If only one team member submits a copy of an assignment and the second team member does not submit anything the second team member will receive a grade of zero. If you are working as a team you should credit your partner as a comment at the top of your code. 
 
-```
-"""
-Assignment #1
-Vladimir Havlik (worked with Katherine Chan)
-"""
-```
+If you do work with a partner, please try to avoid the situation where one person does most of the work, or even all of it. That is obviously bad for the partner that does less.
 
 ## Support
 Computer science is similar to math, in that the material is cumulative in nature in that concepts build on each other. This means it's important that you not fall behind. If at any time you have questions, feel like you're falling behind, or don't understand the material there is always help available. The following resources are here to help you in the event you struggle with any concepts:
@@ -146,40 +137,36 @@ Computer science is similar to math, in that the material is cumulative in natur
 * Office Hours 
 
 ## Information about Ed
-The Ed discussion system is integrated into Brightspace, in that there is a link to it from the content area.  A direct link to it is the following: https://edstem.org/us/courses/35998/discussion/
+
+There are links to Ed Lessons and Ed Discussion on Brightspace in the content area.
 
 All of the students in the class have been automatically signed up to Ed.
 
-Ed is an online discussion forum system that is designed to make it easy to have conversations around code.  Using Ed you will be able to ask me, the course tutors or your fellow students questions about course content and homework assignments.  For example, let's say you're having trouble understanding how to convert user input from a String to an Integer.  You can create a new thread on our Ed discussion forum with your question - including a live code snippet - and members of the class can respond and provide helpful hints to get you started.
+Ed Lessons will be our primary platform for lectures, in-class exercises, and assignments. It 
+is online and extremely easy to use.
 
-This semester we will be using Ed in two ways:
+Ed Discussion is an online discussion forum system that is designed to make it easy to have conversations around code.  Using Ed you will be able to ask me, the course tutors or your fellow students questions about course content and homework assignments.  For example, let's say you're having trouble understanding how to convert user input from a String to an Integer.  You can create a new thread on our Ed discussion forum with your question - including a live code snippet - and members of the class can respond and provide helpful hints to get you started.
 
-Out of class questions: if you have a content-based question (i.e. a question about Python syntax, or about a homework assignment) you should ask that question using Ed instead of sending us an email. We find that many students have simliar questions, and responding these kinds of questions in a more public space will allow us to centralize answers to questions that can benefit all students in the class. Of course if you have a personal question or you'd like to discuss your grade please send me a private email and I will get back to you as soon as I can.
+This semester we will be using Ed Discussion for questions that come up outside of class.
+If you have a content-based question (i.e. a question about Python syntax, or about a homework assignment) you should ask that question using Ed instead of sending us an email. We find that many students have simliar questions, and responding these kinds of questions in a more public space will allow us to centralize answers to questions that can benefit all students in the class. Of course if you have a personal question or you'd like to discuss your grade please send me a private email and I will get back to you as soon as I can.
 
 If you email me with a question of general interest, I will ask you to post it to Ed, and I or one of the other course staff will respond there. Also, feel free to respond to questions asked by other students. 
-
-We will also be using Ed when I post problems on it and ask you to try to answer them in class. This activity counts for your in-class participation grade, which is 5 percent of your total grade, and must be completed during class time. It is not important that you get the right answer (although that's nice); you will get credit if you post something during class time. I'm doing this to make the class more interactive and to encourage attendence. If you post a solution to 75% of the problems that I post during class, you will get full credit for in-class participation.
 
 To use Ed: when you're ready to ask a question simply click the "New Thread" button).  Then type your question in the box provided, using the "code" button ("<>") to add in live Python3 code to your thread.
 
 Or you can reply to a thread that I or someone else has created.
 
 ## Software for Python Programming
-The main software package that we will be working with this semester is the Python programming language.  Python is an open-source project, meaning it is available at no cost and anyone can contribute to it. You can download it for Mac or Windows at http://www.python.org/download. We will be using Python 3.x this semester.
 
-If you have a computer that cannot run Python, you can use an online code editing tool such as [repl.it](https://replit.com) or a private Ed workspace. Please contact me directly if you'd like to discuss these options in greater detail.
-
-You can use [IDLE](https://docs.python.org/3/library/idle.html), the programming editor built in to Python (it is installed when you install Python), or [Visual Studio Code](https://code.visualstudio.com/docs/languages/python) or another system (there are many that support Python; another good one is [PyCharm](https://www.jetbrains.com/pycharm/)) to develop your programs. I will be going over some of these options in class. You will be developing your programs as .py files and handing them in using Brightspace.
-
-In class, I will also be making heavy use of Google Colab, which is an online notebook system that allows you to intersperse Python code and written materials.
+The modules that are associated with each quiz require the use of Python locally installed on your
+computer. The [first module](https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php) contains instructions on how to install it.
 
 ## Personal Computers
-Because this class involves in-class programming assignments, it's highly encouraged that you bring a laptop to class. If you don't have a laptop during in-class work, then you may work with a partner. Keep in mind that computers often have hardware related problems; I recommend storing your programs on cloud storage like Google Drive or Dropbox. If you do choose to save your programs locally on your computer, you should back it up frequently.  If you don't have a computer you can use the NYU computer labs (see below).
+Because this class involves in-class programming assignments, it's highly encouraged that you bring a laptop to class. 
 
 ## Using the NYU Computing Facilities
 NYU provides [computer labs](https://www.nyu.edu/life/information-technology/teaching-and-learning-services/studios-and-computing-labs/student-technology-centers-computer-labs.html) around campus.
 
-Note about saving your work in the labs: You will be able to save your work done in the ITS labs under your NYU Home Account and/or on your own flash drives. Although you can write to the hard disks of the machines in the labs, you cannot be sure that you will have access to the same machine the next time you enter the lab and the drives in the lab are frequently erased. The best option is to upload your files online and download them as needed.
 
 ## Department Information
 * [CS Department](https://cs.nyu.edu/home/index.html)
