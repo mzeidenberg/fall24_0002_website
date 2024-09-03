@@ -11,7 +11,7 @@ columns: '1'
 ## Meeting Time
 Tuesday/Thursday, 2:00-3:15 PM, Silver Room 520
 
-In-person attendence is expected, but if you can't attend in person for some reason on a particular day, you can connect to the Zoom for the class at https://nyu.zoom.us/j/94379106137
+In-person attendence is expected, but if you can't attend in person for some reason on a particular day, you can connect to the Zoom for the class at https://nyu.zoom.us/j/99340350567
 
 The Zoom link for the class can also be found in Brightspace under the "Zoom" tab. It would be helpful if you turn your camera on if you can, especially if you ask a question.
 
