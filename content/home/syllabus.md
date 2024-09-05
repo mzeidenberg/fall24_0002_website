@@ -21,7 +21,7 @@ Sessions will be recorded, but live attendence is preferred if at all possible. 
 
 There are 13 sections of this course that all cover the same material, although there is variation in the lecture content, the assignments, and the exams by instructor.
 
-General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.).
+General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.html).
 
 ## Office Hours
 Office hours will be held in person and on Zoom this semester Mondays and Wednesdays from 2-3 PM and Tuesdays and Thursdays from 12:45-1:45 PM. 
