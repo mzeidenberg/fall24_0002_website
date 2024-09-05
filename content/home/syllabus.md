@@ -21,7 +21,7 @@ Sessions will be recorded, but live attendence is preferred if at all possible. 
 
 There are 13 sections of this course that all cover the same material, although there is variation in the lecture content, the assignments, and the exams by instructor.
 
-General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.html).
+General information regarding the course, topics covered, required textbooks, course tutors, etc. can be found on the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.).
 
 ## Office Hours
 Office hours will be held in person and on Zoom this semester Mondays and Wednesdays from 2-3 PM and Tuesdays and Thursdays from 12:45-1:45 PM. 
@@ -53,7 +53,7 @@ Students should email the CS undergraduate program administrator at undergrad@cs
 This course is an gentle introduction to the fundamentals of computer programming, which is the foundation of computer science. Students will design, write and debug computer programs. No knowledge of programming is assumed.
 
 ## Course Tutors
-Tutoring will be held online via Zoom as well as in a limited, face to face manner for students on campus. For more information please visit the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php).
+Tutoring will be held online via Zoom as well as in a limited, face to face manner for students on campus. For more information please visit the [Common Course Syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.html).
 
 ## Topics
 In this course, we will study the fundamentals of computer programming. We will design, code, and debug programs using Python as we explore these concepts.
@@ -107,9 +107,7 @@ There will be 11 online quizzes that go along with each online learning module. 
 ## Assignments
 There will be 11 assignments in this course that will be assigned on a weekly basis. For a full outline of assignment due dates please refer to the course schedule page.
 
-The assignments will be done on the Ed Lessons platform, which allows for auto-grading. Thus if you
-get a particular item in an assignment right, you will know right away. The graders will assign partial
-credit for those parts of an assignment that did not pass the automated test.
+The assignments will be done on the Ed Lessons platform, which allows for auto-grading. Thus if you get a particular item in an assignment right, you will know right away. The graders will assign partial credit for those parts of an assignment that did not pass the automated test.
 
 It is important not to get behind in turning your assignments (this class is cumulative). Late submissions will be penalized by 10% off per day late, and assignments that are more than 10 days late can not be turned in for credit. 
 
@@ -131,7 +129,7 @@ If you do work with a partner, please try to avoid the situation where one perso
 ## Support
 Computer science is similar to math, in that the material is cumulative in nature in that concepts build on each other. This means it's important that you not fall behind. If at any time you have questions, feel like you're falling behind, or don't understand the material there is always help available. The following resources are here to help you in the event you struggle with any concepts:
 
-* CS Tutors - Please refer to the [common course syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.php) for more information on the types of tutoring that are offered. Before visiting a tutor please review our tutor and student guidelines for what is expected (tutors are not there to do your work for you.)
+* CS Tutors - Please refer to the [common course syllabus](https://cs.nyu.edu/elearning/CSCI_UA_0002/common_syllabus.html) for more information on the types of tutoring that are offered. Before visiting a tutor please review our tutor and student guidelines for what is expected (tutors are not there to do your work for you.)
 
 * CAS Tutors - the [University Learning Center](https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center/tutoring-and-learning.html) provides free tutoring.
 * Office Hours 
@@ -159,7 +157,7 @@ Or you can reply to a thread that I or someone else has created.
 ## Software for Python Programming
 
 The modules that are associated with each quiz require the use of Python locally installed on your
-computer. The [first module](https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.php) contains instructions on how to install it.
+computer. The [first module](https://cs.nyu.edu/elearning/CSCI_UA_0002/module01.html) contains instructions on how to install it.
 
 ## Personal Computers
 Because this class involves in-class programming assignments, it's highly encouraged that you bring a laptop to class. 
