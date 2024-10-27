@@ -29,17 +29,17 @@ All of the self-paced learning modules have an associated quiz. The quizzes can 
 |Tu 10/22|   14|Midterm Exam Review Session||||
 |Th 10/24|   15|Midterm Exam||||
 |Tu 10/29|   16|String manipulation and processing text-based data, string slicing|Self-paced learning module #7 and quiz|[Self-paced learning module #8](https://cs.nyu.edu/elearning/CSCI_UA_0002/module08.html) and quiz |Gaddis, Chapter 8|
-|Th 10/31|   18|Workshop|Assignment #6 (due W 11/8 at 11:59 PM)|Assignment #7||
+|Th 10/31|   18|Workshop|Assignment #6 (due F 11/1 at 11:59 PM)|Assignment #7||
 |Tu 11/5|    19|The "list" data type; working with lists; sorting lists; getting the maximum and minimum values from a list| Self-paced learning module #8 and quiz | [Self-paced learning module #9](https://cs.nyu.edu/elearning/CSCI_UA_0002/module09.html) and quiz |Gaddis, Chapter 7|
-|Th 11/7|    20|Workshop|Assignment #7 (due W 11/15 at 11:59 PM)|Assignment #8||
+|Th 11/7|    20|Workshop|Assignment #7 (due F 11/8 at 11:59 PM)|Assignment #8||
 |Tu 11/12|   21|Unpacking strings into lists; obtaining string data from the web; file input and output|Self-paced learning module #9 and quiz |[Self-paced learning module #10](https://cs.nyu.edu/elearning/CSCI_UA_0002/module10.html) and quiz |Gaddis, Chapter 6|
-|Th 11/14|   22|Workshop|Assignment #8 (due at 11:59 PM)|Assignment #9||
+|Th 11/14|   22|Workshop|Assignment #8 (due F 11/15 at 11:59 PM)|Assignment #9||
 |Tu 11/19|   23|The "dictionary" data structure|Self-paced learning module #10 and quiz|[Self-paced learning module #11](https://cs.nyu.edu/elearning/CSCI_UA_0002/module11.html) and quiz |Gaddis, Chapter 9|
-|Th 11/21|   24|Workshop|Assignment #9 (due F 12/61 at 11:59 PM)|Assignment #10||
+|Th 11/21|   24|Workshop|Assignment #9 (due F 11/22 at 11:59 PM)|Assignment #10||
 |Tu 11/26|   25|Object-oriented programming|Self-paced learning module #11 and quiz ||Gaddis, Chapter 10|
 |Th 11/28||  No class: Thanksgiving Break||
-|Tu 12/3|    26|Workshop|Assignment #10 (due F 12/8 at 11:59 PM)|Assignment #11||
+|Tu 12/3|    26|Workshop|Assignment #10 (due F 12/4 at 11:59 PM)|Assignment #11||
 |Th 12/5|   27|Final Exam Review||||
-|Tu 12/10|   28|Final Exam Review|Assignment #11 (due at 11:59 PM)|||
+|Tu 12/10|   28|Final Exam Review|Assignment #11 (due W 12/11 at 11:59 PM)|||
 |Th 12/12|   28|Final Exam Review||||
-|TBA|   --|Final Exam, time and location to be announced|||
+|Tu 12/17|   --|Final Exam, Silver Room 520, 2-3:50 PM||||
